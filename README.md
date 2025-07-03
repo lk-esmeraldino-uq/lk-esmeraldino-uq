@@ -1,7 +1,3 @@
-<h2 align="left">Hi 👋! My name is Lucas Esmeraldino and I'm a cybersecurity, from Unifique</h2>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
